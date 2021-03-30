@@ -2,7 +2,8 @@ package Models;
 
 public class Bil {
 
-    //comment in errorbranch
+    //comment in master branch
+
 
     private String regnum;
     private String color;

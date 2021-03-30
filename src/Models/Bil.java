@@ -4,6 +4,15 @@ public class Bil {
 
     private String regnum;
     private String color;
+    private Person owner;
+
+    public Person getOwner() {
+        return owner;
+    }
+
+    public void setOwner(Person owner) {
+        this.owner = owner;
+    }
 
     public String getRegnum() {
         return regnum;
